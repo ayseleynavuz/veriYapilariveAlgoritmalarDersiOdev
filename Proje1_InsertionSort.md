@@ -1,4 +1,4 @@
-# Proje1_InsertionSort
+# InsertionSort
 Veri Yapıları ve Algoritmalar Dersi Kapsamında Ödev Olarak Verilen Insertion Sort Projesi
 
 ---
